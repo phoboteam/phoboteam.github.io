@@ -35,11 +35,22 @@ Các bài viết có dạng như sau sẽ KHÔNG được duyệt:
 
 ### VỀ HASHTAG
 
-Hãy tham khảo [danh sách #hashtag sử dụng trong nhóm](hashtags.md) để áp dụng cho nội dung bài viết của bạn một cách hợp lý.
+**Lưu ý:**
+- Mọi hashtag phải bắt đầu bằng `PBT_` (giống như namespace) để tránh ảnh hưởng của hashtag trên các bài viết bên ngoài nhóm.
+- Bạn có thể dùng nhiều hashtag trong một bài viết nếu thấy liên quan tới chủ đề bạn muốn chia sẻ.
 
-Ví dụ về một [bài viết](https://www.facebook.com/groups/j2team.community/permalink/413843845614408/) sử dụng hashtag:
+## Các hashtag chính (bắt buộc)
 
-![hashtag](https://i.imgur.com/qPJ1UgT.png)
+| Hashtag            | Chủ đề, nội dung của bài viết                    |
+|--------------------|--------------------------------------------------|
+| #PBT_News          | Tìm tức, cập nhập, thông báo từ BQT.             |
+| #PBT_Reach         | Bài Đăng tương tác góp thêm sôi động cho group.  |
+| #PBT_MuaBan        | Đăng bài cần mua hoặc bán acc Liên Quân.         |
+| #PBT_CayThue       | Bạn cần tìm người cay thuê rank.                 |
+| #PBT_Rank          | Chia sẻ (tài liệu, sách, phần mềm, khóa học,...) |
+| #PBT_Card          | Cần mua hoặc bán card Viettel - Garena,...       |
+| #PBT_TimNguoi      | Tìm 1 người nào đó trong game                    |
+| #PBT_Khac          | Các bài không liên quan đến Hashtag trên         |
 
 ## NỘI QUY ĐĂNG BÌNH LUẬN
 
