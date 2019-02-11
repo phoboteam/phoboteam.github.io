@@ -1,4 +1,4 @@
-![J2TEAM Community](https://i.imgur.com/GLmIfKT.png)
+![PHO BO TEAM](https://i.imgur.com/GLmIfKT.png)
 
 # NỘI QUY NHÓM PHỐ BÒ TEAM.
 
